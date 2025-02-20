@@ -22,7 +22,7 @@ title: Final Year Project 24/25 - Software Bill of Materials and Vulnerability M
 email: 20099082@mail.wit.ie
 description: >- # this means to ignore newlines until "baseurl:"
   Description for Final Year Project
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/dylbp.fyp.github.io" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  DylBP
 
