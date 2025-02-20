@@ -18,18 +18,26 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Final Year Project 24/25 - Software Bill of Materials and Vulnerability Management AIO for Applications and Containers
+title: "Delve: SBOM & VM Suite"
 email: 20099082@mail.wit.ie
-description: >- # this means to ignore newlines until "baseurl:"
-  Description for Final Year Project
+description: >
+  Delve is a fully fledged suite for Software Component Analysis (SCA) combined with a vulnerability management interface
+  to enhance the developers workflow, and removing their worries of using vulnerable, out of date, and risky components.
 baseurl: "/dylbp.fyp.github.io" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  DylBP
+linkedin_username: dylanebp
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+
+header_pages:
+  - index.md
+  - projects.md
+  - aboutme.md
+  - posts.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
