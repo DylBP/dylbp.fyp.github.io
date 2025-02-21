@@ -34,9 +34,9 @@ plugins:
   - jekyll-feed
 
 header_pages:
-  - projects.md
-  - aboutme.md
+  - resources.md
   - posts.md
+  - aboutme.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
