@@ -34,7 +34,6 @@ plugins:
   - jekyll-feed
 
 header_pages:
-  - index.md
   - projects.md
   - aboutme.md
   - posts.md

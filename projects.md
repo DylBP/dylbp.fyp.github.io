@@ -4,8 +4,6 @@ title: Projects
 permalink: /projects/
 ---
 
-# My Projects
-
 Welcome to my project page! 🚀
 
 ## 📂 Project 1
