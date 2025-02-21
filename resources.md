@@ -17,13 +17,13 @@ This section is dedicated to providing you with the tools, materials, and insigh
 
 ### 📄 **Project Resources**
 
-- **[Delve GitHub Repository](https://github.com/DylBP/delve)**  
+- **[Delve GitHub Repository](https://github.com/DylBP/SBOM-FYP)**  
   The complete source code for the Delve project, including documentation, setup instructions, and configuration details. Check out the repository for in-depth information on how Delve works, the technologies used, and future updates.
 
-- **[Delve Documentation](#)**  
+- **[Delve Documentation (WIP)](#)**  
   Comprehensive guides to help you get started with **Delve**. This includes setup guides, configuration details, and step-by-step instructions on how to use the platform for Software Composition Analysis (SCA) and vulnerability management.
 
-- **[Delve API Documentation](#)**  
+- **[Delve API Documentation (WIP)](#)**  
   All the details you need to integrate with the Delve API for vulnerability scanning, SBOM generation, and more. This includes API endpoints, authentication requirements, and usage examples.
 
 ---

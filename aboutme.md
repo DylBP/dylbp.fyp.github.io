@@ -12,7 +12,7 @@ permalink: /about-me/
 
 Welcome to my personal page — a glimpse into who I am and what drives me.
 
-In the picture above, you’ll spot **Luna**, my main motivator (and occasional keyboard interrupter) 🐾.
+**PLACEHOLDER IMAGE** In the picture above, you’ll spot **Luna**, my main motivator (and occasional keyboard interrupter) 🐾.
 
 ---
 
