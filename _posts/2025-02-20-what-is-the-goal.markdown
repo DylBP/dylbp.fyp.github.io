@@ -2,7 +2,7 @@
 layout: post
 title:  "What is the goal for Delve?"
 date:   2025-02-20 17:44:02 +0000
-categories: project
+categories: information
 ---
 
 **Delve** aims to be a unified platform for **Software Composition Analysis (SCA)** and streamlined **vulnerability management**, enabling faster remediation times through an intuitive interface.

@@ -2,7 +2,7 @@
 layout: post
 title:  "Serving an API - Phase 1"
 date:   2025-02-21 13:07:02 +0000
-categories: project
+categories: progress
 ---
 
 ### 🔧 **Phase 1: Setting Up the AWS Infrastructure**  
