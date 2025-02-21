@@ -49,7 +49,7 @@ I’m always open to collaborations, challenges, or a simple tech chat.
 
 ---
 
-## 🤖 **My Personal Supports**
+## 🤖 **Driving Forces Behind Delve**
 
 These are the go-to resources that keep me inspired, informed, and constantly learning:
 
@@ -57,6 +57,7 @@ These are the go-to resources that keep me inspired, informed, and constantly le
 - [**Bringus Studios (YouTube)**](https://www.youtube.com/@BringusStudios) — Dive into engaging tech content, ethical hacking breakdowns, and thought-provoking cybersecurity topics.  
 - [**Hacked Podcast**](https://www.hackedpodcast.com) — Real-world stories of hacking, breaches, and the human side of cybersecurity — equal parts educational and entertaining.  
 - [**Darknet Diaries**](https://darknetdiaries.com) — Deep dives into the darker corners of the internet, covering real hacking cases, data breaches, and social engineering.
+- **Application Testing** - Performing web application testing highlighted the scale and impact of vulnerabilities within dependencies.
 
 💡 *Got a podcast or channel recommendation? Let me know — I’m always up for expanding my playlist!*
 
