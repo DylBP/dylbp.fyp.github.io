@@ -8,11 +8,7 @@ permalink: /about-me/
   <img src="{{ '/assets/images/me.jpg' | relative_url }}" alt="Dylan's photo" style="width: 350px; border-radius: 10%;" />
 </div>
 
-# 👋 Hey there!
-
 Welcome to my personal page — a glimpse into who I am and what drives me.
-
-**PLACEHOLDER IMAGE** In the picture above, you’ll spot **Luna**, my main motivator (and occasional keyboard interrupter) 🐾.
 
 ---
 
@@ -24,22 +20,22 @@ I’m a passionate **software developer** and **cybersecurity enthusiast** with 
 
 ## 🛠️ **Tech Interests**
 
-- 🔐 **Web Application Security** — Exploring vulnerabilities & strengthening defenses  
-- 💻 **Software Development** — From backend logic to clean UIs  
-- 📱 **Device Cracking** —  
+- **Web Application Security** — Exploring vulnerabilities & strengthening defenses  
+- **Software Development** — From backend logic to clean UIs  
+- **Device Cracking** —  
   - iPhone jailbreaks  
   - Android rooting  
   - Console jailbreaks  
-- 🏠 **Home Infrastructure** — DIY servers, networking, and automation  
+- **Home Infrastructure** — DIY servers, networking, and automation  
 
 ---
 
 ## 🚀 **What I’m Working On**
 
-- 📚 **CompTIA Security+** — Expanding my knowledge in foundational cybersecurity  
-- 🏆 **HackTheBox** — Hands-on experience with real-world penetration testing  
-- 🎓 **TryHackMe** — Deep-diving into cybersecurity concepts through labs  
-- 🖥️ **Legacy System Build** — Reviving older tech with modern security layers  
+- **CompTIA Security+** — Expanding my knowledge in foundational cybersecurity  
+- **HackTheBox** — Hands-on experience with real-world penetration testing  
+- **TryHackMe** — Deep-diving into cybersecurity concepts through labs  
+- **Legacy System Build** — Reviving older tech with modern security layers  
 
 ---
 
@@ -47,9 +43,9 @@ I’m a passionate **software developer** and **cybersecurity enthusiast** with 
 
 I’m always open to collaborations, challenges, or a simple tech chat.  
 
-- 🐙 [GitHub](https://github.com/DylBP)  
-- 💼 [LinkedIn](https://linkedin.com/in/dylanebp)  
-- 📧 [Email Me](mailto:20099082@mail.wit.ie)  
+- [GitHub](https://github.com/DylBP)  
+- [LinkedIn](https://linkedin.com/in/dylanebp)  
+- [Email Me](mailto:20099082@mail.wit.ie)  
 
 ---
 
@@ -57,14 +53,11 @@ I’m always open to collaborations, challenges, or a simple tech chat.
 
 These are the go-to resources that keep me inspired, informed, and constantly learning:
 
-- 🎙️ [**Risky Biz Podcast**](https://risky.biz) — Stay updated on the latest cybersecurity news, industry trends, and in-depth discussions with experts.  
-- 🎥 [**Bringus Studios (YouTube)**](https://www.youtube.com/@BringusStudios) — Dive into engaging tech content, ethical hacking breakdowns, and thought-provoking cybersecurity topics.  
-- 🎧 [**Hacked Podcast**](https://www.hackedpodcast.com) — Real-world stories of hacking, breaches, and the human side of cybersecurity — equal parts educational and entertaining.  
-- 🕵️‍♂️ [**Darknet Diaries**](https://darknetdiaries.com) — Deep dives into the darker corners of the internet, covering real hacking cases, data breaches, and social engineering.
+- [**Risky Biz Podcast**](https://risky.biz) — Stay updated on the latest cybersecurity news, industry trends, and in-depth discussions with experts.  
+- [**Bringus Studios (YouTube)**](https://www.youtube.com/@BringusStudios) — Dive into engaging tech content, ethical hacking breakdowns, and thought-provoking cybersecurity topics.  
+- [**Hacked Podcast**](https://www.hackedpodcast.com) — Real-world stories of hacking, breaches, and the human side of cybersecurity — equal parts educational and entertaining.  
+- [**Darknet Diaries**](https://darknetdiaries.com) — Deep dives into the darker corners of the internet, covering real hacking cases, data breaches, and social engineering.
 
 💡 *Got a podcast or channel recommendation? Let me know — I’m always up for expanding my playlist!*
 
 ---
-
-
-✨ *“Security isn’t a product, it’s a process.”* — Bruce Schneier

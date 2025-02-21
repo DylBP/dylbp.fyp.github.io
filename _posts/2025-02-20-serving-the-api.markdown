@@ -13,14 +13,14 @@ I started by testing the infrastructure with **Flask** to ensure proper configur
 ### 🖥️ **Server Setup**  
 The EC2 instance, which acts as both the **Processing** and **API Server**, has the following binaries installed:
 
-- 🔐 **Syft** — For generating SBOMs from source code, artifacts, and containers.  
-- ⚠️ **Grype** — For scanning SBOMs for known vulnerabilities.  
-- 🚀 **Delve** — My custom vulnerability management interface.  
-- 🌐 **Node.js & NPM**  
-  - 🛠️ **pm2** — Process manager to keep the Node.js API running smoothly.  
-  - ⚡ **Express** — Web framework to handle API requests.  
-  - 🔒 **dotenv** — Securely managing environment variables.  
-  - 📂 **path** — Path utilities for file handling.
+- **Syft** — For generating SBOMs from source code, artifacts, and containers.  
+- **Grype** — For scanning SBOMs for known vulnerabilities.  
+- **Delve** — My custom vulnerability management interface.  
+- **Node.js & NPM**  
+  - **pm2** — Process manager to keep the Node.js API running smoothly.  
+  - **Express** — Web framework to handle API requests.  
+  - **dotenv** — Securely managing environment variables.  
+  - **path** — Path utilities for file handling.
 
 ### 🚀 **Initial Testing & Results**  
 During this phase, I was able to successfully:
@@ -77,4 +77,4 @@ app.listen(port, () => {
 
 ---
 
-*For the next update, I'll dive deeper into the authentication process and how I plan to enforce these security measures.*
+*For the next update, I'll be looking into the authentication process and how I plan to enforce these security measures.*

@@ -20,6 +20,9 @@ This section is dedicated to providing you with the tools, materials, and insigh
 - **[Delve GitHub Repository](https://github.com/DylBP/SBOM-FYP)**  
   The complete source code for the Delve project, including documentation, setup instructions, and configuration details. Check out the repository for in-depth information on how Delve works, the technologies used, and future updates.
 
+- **[Semester 1 Report]({{ 'assets/docs/Dylan Butler Parry - 20099082 - FPY Semester 1 Report.pdf' | relative_url }})**  
+  A deep dive into the architecture, challenges, and future roadmap of the Delve project.
+
 - **[Delve Documentation (WIP)](#)**  
   Comprehensive guides to help you get started with **Delve**. This includes setup guides, configuration details, and step-by-step instructions on how to use the platform for Software Composition Analysis (SCA) and vulnerability management.
 
@@ -37,6 +40,22 @@ Delve is built on a stack of powerful tools and technologies, each of which play
 
 - **[Grype](https://github.com/anchore/grype)**  
   Grype is a vulnerability scanner that works seamlessly with Syft’s SBOMs. Delve uses Grype to scan for known vulnerabilities in the components used within a software package, offering a clear report of potential security risks.
+
+- **[AWS (EC2, S3, DynamoDB, Cognito)](https://aws.amazon.com/)**  
+  Delve leverages AWS for scalable cloud infrastructure:
+  - **EC2**: Virtual servers for hosting applications.
+  - **S3**: Storage for managing large datasets and SBOM files.
+  - **DynamoDB**: NoSQL database for storing metadata and component data.
+  - **Cognito**: User authentication and management for secure access to the platform.
+
+- **[Node.js](https://nodejs.org/)**  
+  Node.js is used to build the backend of Delve, providing a fast and efficient runtime for server-side applications and APIs.
+
+- **[Express](https://expressjs.com/)**  
+  Express is a web framework for Node.js, simplifying the process of building robust RESTful APIs to interact with Delve's components and services.
+
+- **[React](https://reactjs.org/)**  
+  React is employed to create dynamic and responsive frontend interfaces for Delve, ensuring a smooth and user-friendly experience for interacting with the platform.
 
 ---
 

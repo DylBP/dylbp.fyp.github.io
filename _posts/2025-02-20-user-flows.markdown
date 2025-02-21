@@ -101,7 +101,7 @@ categories: progress
 
 To visualize these flows, here is a diagram that shows the interaction between the key components of the system:
 
-![User Flow Diagram](path-to-your-image.jpg)
+![User Flow Diagram]({{ '/assets/images/userflows.jpeg' | relative_url }})
 
 ---
 
